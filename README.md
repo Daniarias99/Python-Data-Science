@@ -19,6 +19,15 @@ Este proyecto utiliza un dataset de 541,909 filas y 8 columnas de una tienda vir
 
 **Enlace al proyecto en línea:** (https://colab.research.google.com/drive/1Pcl9F5jfzBKOG90gzf-_WOdtV9fO6QcH?usp=sharing)
 
+### [Analysis of Diabetes Patients.](https://github.com/usuario/proyecto1)
+Este proyecto utiliza un dataset de 768 filas y 9 columnas sacado de Kaggle. Análisis profundo, exploración, limpieza y viasualizacines importantes del dataset.
+
+**Enlace al proyecto en línea:** (https://colab.research.google.com/drive/1_U8mvwsBRdC-2zX_W3y-_lH-9sZVcGTk?usp=sharing)
+
+### [Analysis Credit.](https://github.com/usuario/proyecto1)
+Este proyecto utiliza un dataset de 1000 filas y 21 columnas sacado de Kaggle. Análisis profundo, exploración, limpieza y viasualizacines importantes del dataset.
+
+**Enlace al proyecto en línea:**(https://colab.research.google.com/drive/1tLB7E2ASJ_elzEM8_wundGhaVFvOOjAH?usp=sharing)
 
 
 ## Contacto
