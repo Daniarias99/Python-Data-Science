@@ -1,7 +1,7 @@
 # ¡Hola! Soy Daniel Alejandro Arias 👋
 
 ## Sobre mí
-Actualmente curso último semestre de la carrera profesional Licenciatura en Matemáticas de la Universidad del Valle, Colombia. Ademas de las matemáticas me apasiona el campo de la ciencia y analisis de datos, y siempre estoy buscando aprender y mejorar mis habilidades. Gracias a mis competencias matemáticas y pensamiento lógico matemático he culminado en platzi el curso de Python para ciencia de datos, donde he adquirido muchos conocimientos tambin en SQL y Powe BI. Este es mi primer proyecto para este portafolio. 
+Profesional Licenciado en Matemáticas de la Universidad del Valle, Colombia. Ademas de las matemáticas me apasiona el campo de la ciencia y analisis de datos, y siempre estoy buscando aprender y mejorar mis habilidades. Gracias a mis competencias matemáticas y pensamiento lógico matemático he culminado en platzi el curso de Python para ciencia de datos, donde he adquirido muchos conocimientos tambin en SQL y Powe BI. Este es mi primer proyecto para este portafolio. 
 
 ## Habilidades Técnicas
 - **Lenguajes:** Python
